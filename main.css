@@ -97,7 +97,7 @@ a{
 	color: #fff;
 }
 .header	{
-	background: linear-gradient(180deg, rgba(255, 225, 207, 0.5) 1.39%, rgba(19, 75, 85, 0.13) 44.44%), url('../img/Header.png') no-repeat center top / cover;
+	background: linear-gradient(180deg, rgba(255, 225, 207, 0.5) 1.39%, rgba(19, 75, 85, 0.13) 44.44%), url('../Header.png') no-repeat center top / cover;
 	text-align: center;
 }
 .offer {
@@ -116,7 +116,7 @@ a{
 	margin: 24px;
 }
 .arrow-down {
-	background: url('../img/arrow-down.svg');
+	background: url('../arrow-down.svg');
 	width: 18px;
 	height: 27px;
 	display: block;
@@ -166,7 +166,7 @@ a{
 	border-radius: 0px 5px 5px 0px;
 }
 .routes__arrow {
-	background: url('../img/arrow-next.svg');
+	background: url('../arrow-next.svg');
 	width: 68px;
 	height: 17px;
 	display: block;
@@ -182,7 +182,7 @@ a{
 	margin-bottom: 93px;
 }
 .description-content {
-	background: #fff url('../img/Street.jpg') no-repeat right top/ 50%;
+	background: #fff url('../Street.jpg') no-repeat right top/ 50%;
 	height: 626px;
 	padding-top: 
 }
