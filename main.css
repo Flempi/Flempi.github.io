@@ -97,7 +97,7 @@ a{
 	color: #fff;
 }
 .header	{
-	background: linear-gradient(180deg, rgba(255, 225, 207, 0.5) 1.39%, rgba(19, 75, 85, 0.13) 44.44%), url('/Header.png') no-repeat center top / cover;
+	background: linear-gradient(180deg, rgba(255, 225, 207, 0.5) 1.39%, rgba(19, 75, 85, 0.13) 44.44%), url('../Header.png') no-repeat center top / cover;
 	text-align: center;
 }
 .offer {
